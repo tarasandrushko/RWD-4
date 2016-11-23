@@ -1,5 +1,5 @@
 # RWD-4
-1.Cлайд: https://tarasandrushko.github.io/RWD-4/index.html
+1.Cлайд: https://tarasandrushko.github.io/RWD-44/index.html
 
 Скріни валідації 
 ![task](https://pp.vk.me/c636828/v636828543/35003/1CvLuHdp1IU.jpg)
